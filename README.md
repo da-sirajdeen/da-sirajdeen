@@ -84,8 +84,10 @@ Comprehensive analysis of a 10,000-record Amazon dataset to assess data complete
 
 ## Certifications & Education
 
-- **Data Analysis Certification** (In Progress)
+- Electronics and Communication Engineering- Sep 2020-Apr 2024 
+- **Data Analysis Certificate - Udemy 
 - Continuous professional development through online platforms and hands-on projects
+  
 
 ---
 
@@ -99,7 +101,6 @@ I believe in clean, efficient code, transparent analysis, and delivering insight
 
 ## Get in Touch
 
-**Available for:** Contract roles, permanent positions, consulting projects  
 **Interested in:** Data analytics, business intelligence, database optimization
 
 📧 **Email:** [da.sirajden@gmail.com](mailto:da.sirajden@gmail.com)  
@@ -107,5 +108,3 @@ I believe in clean, efficient code, transparent analysis, and delivering insight
 📍 **Location:** Dubai, UAE
 
 ---
-
-*Last updated: June 2026*
