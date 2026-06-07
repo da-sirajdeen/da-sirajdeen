@@ -76,8 +76,9 @@ Comprehensive analysis of a 10,000-record Amazon dataset to assess data complete
 
 | Language | Proficiency |
 |----------|------------|
-| English | Professional Working Proficiency |
-| Arabic | Conversational |
+| English | Professional Working Proficiency ||
+| Hindi | Intermediate |
+| Arabic  |  Proficient in reading and writing | 
 
 ---
 
