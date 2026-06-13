@@ -10,14 +10,21 @@
 Results-driven Data Analyst with demonstrated expertise in SQL, Python, and Business Intelligence. Specialized in designing automated data pipelines, creating interactive dashboards, and delivering data-driven recommendations that improve operational efficiency.
 
 **Current Role:** Database Executive at Dunes Legal Services, Dubai  
-<!-- Email -->
-<a href="mailto:da.sirajden@gmail.com">da.sirajden@gmail.com</a>
+<!-- Add this in your <head> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
 
-<!-- Portfolio -->
-<a href="https://da-sirajdeen.github.io/da_sirajdeen_portfolio/" target="_blank">View Portfolio</a>
+<!-- Contact Links -->
+<a href="mailto:da.sirajden@gmail.com">
+  <i class="fa fa-envelope"></i> da.sirajden@gmail.com
+</a>
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/sirajdeenhabeeb2003/" target="_blank">linkedin.com/in/sirajdeenhabeeb2003</a>
+<a href="https://da-sirajdeen.github.io/da_sirajdeen_portfolio/" target="_blank">
+  <i class="fa fa-globe"></i> Portfolio
+</a>
+
+<a href="https://www.linkedin.com/in/sirajdeenhabeeb2003/" target="_blank">
+  <i class="fa-brands fa-linkedin"></i> LinkedIn
+</a>
 
 ---
 
