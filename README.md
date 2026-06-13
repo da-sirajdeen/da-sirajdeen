@@ -15,7 +15,7 @@ Results-driven Data Analyst with demonstrated expertise in SQL, Python, and Busi
 <p><strong>Portfolio:</strong> <a href="https://da-sirajdeen.github.io/da_sirajdeen_portfolio/" target="_blank">da-sirajdeen.github.io/da_sirajdeen_portfolio</a></p>
 
 <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sirajdeenhabeeb2003/" target="_blank">linkedin.com/in/sirajdeenhabeeb2003</a></p>
-  <i class="fa-brands fa-linkedin"></i> LinkedIn
+
 </a>
 
 ---
