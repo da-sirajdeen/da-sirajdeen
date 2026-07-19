@@ -1,115 +1,123 @@
-# Sirajdeen — Data Analyst
+<div align="center">
 
-> **Transforming complex datasets into actionable insights**  
-> Based in Dubai, UAE | Open to opportunities across GCC & Europe
+# Sirajdeen Habeeb
 
----
+### Data Analyst · Turning Raw Numbers Into Decisions
 
-## Professional Overview
+<br>
 
-Results-driven Data Analyst with demonstrated expertise in SQL, Python, and Business Intelligence. Specialized in designing automated data pipelines, creating interactive dashboards, and delivering data-driven recommendations that improve operational efficiency.
+`SQL` · `Python` · `Power BI` · `ETL Automation` · `Dubai, UAE`
 
-**Current Role:** Database Executive at Dunes Legal Services, Dubai  
-<p><strong>Email:</strong> <a href="mailto:da.sirajden@gmail.com">da.sirajden@gmail.com</a></p>
+<br>
 
-<p><strong>Portfolio:</strong> <a href="https://da-sirajdeen.github.io/da_sirajdeen_portfolio/" target="_blank">da-sirajdeen.github.io/da_sirajdeen_portfolio</a></p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://da-sirajdeen.github.io/da_sirajdeen_portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirajdeenhabeeb2003/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:da.sirajden@gmail.com)
 
-<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sirajdeenhabeeb2003/" target="_blank">linkedin.com/in/sirajdeenhabeeb2003</a></p>
+</div>
 
-</a>
+<br>
 
----
+## → About
 
-## Technical Expertise
+I turn messy datasets into dashboards people actually act on. Currently a **Data Analyst at Dunes Legal Corporate Services** in Dubai, where I sit at the intersection of raw operational data and the decisions it should be driving — building pipelines, cutting reporting overhead, and making sure the number on the slide is the number that's true.
 
-### Core Languages
-- **Python** — Data manipulation (Pandas, NumPy), automation, statistical analysis
-- **SQL** — Query optimization, window functions, CTEs, complex joins
+Engineering background (B.E. Electronics & Communication, Anna University) that taught me to think in systems before I ever wrote a `SELECT` statement. Google Data Analytics certified. Bilingual in English and Arabic, which matters more than you'd think when your stakeholders span a region.
 
-### Business Intelligence & Visualization
-- **Power BI** — Interactive dashboards, data modeling, DAX formulas
-- **Excel** — Advanced functions, pivot tables, financial modeling
+```
+if data.is_messy():
+    clean_it()
+elif insight.is_buried():
+    dig_it_out()
+else:
+    ship_the_dashboard()
+```
 
-### Database Systems
-- MySQL | PostgreSQL | SQL Server
+<br>
 
-### Supporting Tools
-- Git & Version Control | Google Sheets | Jupyter Notebooks
+## → What I Actually Do
 
----
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Professional Experience
+### 🔧 Build
+Automated ETL pipelines that cut manual reporting work by **60%**. If I'm doing something twice by hand, I'm doing it wrong.
 
-### Database Executive
-**Dunes Legal Services** | Dubai, UAE | Sep 2024 – Jul 2026
+</td>
+<td width="33%" valign="top">
 
-- **Dashboard Development:** Designed and deployed interactive Power BI dashboards for executive stakeholders, enabling real-time monitoring of KPIs across multiple departments
-- **Data Engineering:** Developed optimized SQL queries and automated ETL pipelines, reducing manual reporting overhead by 60%
-- **Data Analysis:** Conducted exploratory data analysis on datasets exceeding 100,000 rows using Python (Pandas, NumPy, Matplotlib) to identify trends and anomalies
-- **Process Optimization:** Established data governance standards and structured Excel workflows to improve data consistency across teams
+### 📊 Visualize
+Power BI dashboards that executives open first thing in the morning — not ones they forget exist. DAX measures that answer the *next* question, not just the one asked.
 
-**Key Technologies:** Power BI, SQL, Python, Pandas, Excel
+</td>
+<td width="33%" valign="top">
 
----
+### 🔍 Interrogate
+SQL across 100K+ row datasets to find the anomaly nobody flagged. Window functions, CTEs, recursive queries — whatever gets to the real answer fastest.
 
-## Notable Projects
+</td>
+</tr>
+</table>
 
-### E-Commerce Data Quality Analysis
-Comprehensive analysis of a 10,000-record Amazon dataset to assess data completeness and identify business opportunities.
+<br>
 
-**Deliverables:**
-- Validated data quality metrics across 12+ dimensions (pricing, inventory, seller ratings)
-- Identified pricing anomalies and inconsistencies using statistical methods
-- Generated segment-level insights: top-performing categories, high-risk sellers, pricing trends
-- Automated reporting using SQL aggregation and ranking queries
+## → Toolkit
 
-**Technologies:** MySQL, SQL, Python (Pandas)
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## Continuous Learning
+</div>
 
-| Focus Area | Current Development |
-|-----------|-------------------|
-| **SQL** | Advanced window functions, query performance tuning, recursive CTEs |
-| **Power BI** | Complex data modeling, custom DAX measures, drill-through dashboards |
-| **Python** | Automation frameworks, API integration, advanced statistical analysis |
+<br>
 
----
+## → Currently Building
 
-## Languages
+**Dunes Legal Corporate Services** · Data Analyst · Sep 2024 – Present
 
-| Language | Proficiency |
-|----------|------------|
-| English | Professional Working Proficiency ||
-| Hindi | Intermediate |
-| Arabic  |  Proficient in reading and writing | 
+- Designed Power BI dashboards giving execs real-time KPI visibility across departments — no more waiting on end-of-week reports
+- Built automated ETL pipelines, cutting manual reporting overhead **60%**
+- Ran exploratory analysis on 100K+ row datasets with Python (Pandas, NumPy, Matplotlib) to surface trends nobody was looking for
+- Set data governance standards that made "which number is correct" stop being a weekly argument
 
----
+<br>
 
-## Certifications & Education
+## → Featured Work
 
-- Electronics and Communication Engineering- Sep 2020-Apr 2024 
-- **Data Analysis Certificate - Udemy 
-- Continuous professional development through online platforms and hands-on projects
-  
+**[Explore the full portfolio →](https://da-sirajdeen.github.io/da_sirajdeen_portfolio/)**
 
----
+| Project | What It Does |
+|---|---|
+| 🏙️ **UAE Real Estate Price Trends** | Tracks pricing shifts across UAE property markets to surface where value is actually moving |
+| 🚇 **Dubai Metro Ridership Gap Analysis** | Identifies underserved routes and ridership drop-off points using transit data |
+| 🛒 **Amazon E-Commerce Analytics** | Audited a 10K-record dataset across 12+ quality dimensions — pricing anomalies, seller risk, category performance — with full SQL + Python reporting |
 
-## Philosophy
+<br>
 
-> "Data is valuable only when it drives informed decisions."
+## → Currently Sharpening
 
-I believe in clean, efficient code, transparent analysis, and delivering insights that translate directly into business impact. Every query is an opportunity to improve data quality; every dashboard is a tool for better decision-making.
+`Advanced window functions & recursive CTEs` · `Custom DAX & drill-through dashboards` `Python automation & API integration`
 
----
+<br>
 
-## Get in Touch
+## → Let's Talk
 
-**Interested in:** Data analytics, business intelligence, database optimization
+Open to Data Analyst opportunities across the **GCC and Europe**. If you've got a dataset that's lying to you, or a dashboard nobody trusts — I'm interested.
 
-📧 **Email:** [da.sirajden@gmail.com](mailto:da.sirajden@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/sirajdeenhabeeb2003](https://www.linkedin.com/in/sirajdeenhabeeb2003/)  
-📍 **Location:** Dubai, UAE
+<div align="center">
 
----
+📧 [da.sirajden@gmail.com](mailto:da.sirajden@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/sirajdeenhabeeb2003/) · 🌐 [Portfolio](https://da-sirajdeen.github.io/da_sirajdeen_portfolio/) · 📍 Dubai, UAE
+
+<br>
+
+*"Data is valuable only when it drives informed decisions."*
+
+</div>
