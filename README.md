@@ -1,4 +1,4 @@
-# Hi, I'm Sirajdeen 👋
+# Hello, I'm Sirajdeen 👋
 
 **Data Analyst | MIS Analyst | Power BI Analyst | Business Analyst**
 
@@ -66,5 +66,3 @@ I work across the data lifecycle — from pulling and cleaning raw data, to mode
 English (Professional) · Arabic (Reading & Writing) · Hindi (Intermediate)
 
 ---
-
-*"Data is valuable only when it drives informed decisions."*
