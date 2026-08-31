@@ -51,8 +51,8 @@ I work across the data lifecycle — from pulling and cleaning raw data, to mode
 
 ## 💼 Experience
 
-**Data Analyst** — Dunes Legal Corporate Services, Dubai, UAE
-*[dates to confirm — see note]*
+**Data Analyst** — Dunes Corporate Services, Dubai, UAE
+*July 2024 - Sep 2025*
 
 - Designed and deployed interactive Power BI dashboards for executive stakeholders, enabling real-time KPI monitoring across departments
 - Built optimized SQL queries and automated reporting workflows, cutting manual reporting overhead by 60%
