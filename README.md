@@ -2,7 +2,7 @@
 
 **Data Analyst | MIS Analyst | Power BI Analyst | Business Analyst**
 
-I turn raw, messy data into dashboards, reports, and insights that people can actually act on. Based in Dubai, UAE - open to opportunities across the GCC & Europe.
+I help businesses turn data into dashboards, reports, and actionable insights. Based in Dubai, UAE - open to Data Analyst, BI, MIS, and related opportunities across the GCC & Europe.
 
 📧 [da.sirajden@gmail.com](mailto:da.sirajden@gmail.com)
 🔗 [Portfolio](https://da-sirajdeen.github.io/Sirajdeen_Portfolio/)
@@ -64,6 +64,6 @@ I work across the data lifecycle — from pulling and cleaning raw data, to mode
 
 ## 🌐 Languages
 
-English (Professional) · Arabic (Reading & Writing) · Hindi (Intermediate)
+English (Professional) · Arabic (Reading & Writing) · Hindi (Intermediate) · Tamil (Native)
 
 
