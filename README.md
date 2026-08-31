@@ -1,112 +1,70 @@
-# Sirajdeen — Data Analyst
+# Hi, I'm Sirajdeen 👋
 
-> **Transforming complex datasets into actionable insights**  
-> Based in Dubai, UAE | Open to opportunities across GCC & Europe
+**Data Analyst | MIS Analyst | Power BI Analyst | Business Analyst**
 
----
+I turn raw, messy data into dashboards, reports, and insights that people can actually act on. Based in Dubai, UAE — open to opportunities across the GCC & Europe.
 
-## Professional Overview
-
-Results-driven Data Analyst with demonstrated expertise in SQL, Python, and Business Intelligence. Specialized in designing automated data pipelines, creating interactive dashboards, and delivering data-driven recommendations that improve operational efficiency.
-
-**Current Role:** Database Executive at Dunes Legal Services, Dubai  
-<p><strong>Email:</strong> <a href="mailto:da.sirajden@gmail.com">da.sirajden@gmail.com</a></p>
-<p><strong>Portfolio:</strong> <a href="https://da-sirajdeen.github.io/Sirajdeen_Portfolio/" target="_blank">da-sirajdeen.github.io/Sirajdeen_Portfolio</a></p>
-<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sirajdeenhabeeb2003/" target="_blank">linkedin.com/in/sirajdeenhabeeb2003</a></p>
-</a>
+📧 [da.sirajden@gmail.com](mailto:da.sirajden@gmail.com)
+🔗 [Portfolio](https://da-sirajdeen.github.io/Sirajdeen_Portfolio/)
+🔗 [LinkedIn](https://www.linkedin.com/in/sirajdeenhabeeb2003/)
+📍 Dubai, UAE
 
 ---
 
-## Technical Expertise
+## What I Do
 
-### Core Languages
-- **Python** — Data manipulation (Pandas, NumPy), automation, statistical analysis
-- **SQL** — Query optimization, window functions, CTEs, complex joins
+I work across the data lifecycle — from pulling and cleaning raw data, to modeling it, to building the dashboards and reports that stakeholders and management actually use to make decisions. That range is why my work maps onto a few different titles:
 
-### Business Intelligence & Visualization
-- **Power BI** — Interactive dashboards, data modeling, DAX formulas
-- **Excel** — Advanced functions, pivot tables, financial modeling
-
-### Database Systems
-- MySQL | PostgreSQL | SQL Server
-
-### Supporting Tools
-- Git & Version Control | Google Sheets | Jupyter Notebooks
+- **Data Analyst** — SQL querying, Python-based analysis, data cleaning, trend & anomaly detection
+- **MIS Analyst** — recurring reporting, data governance, structured Excel/data workflows, process documentation
+- **Power BI Analyst** — dashboard design, data modeling, DAX measures, drill-through reports
+- **Business Analyst** — translating raw numbers into business recommendations, KPI tracking, stakeholder reporting
 
 ---
 
-## Professional Experience
+## 🛠️ Skills
 
-### Database Executive
-**Dunes Legal Services** | Dubai, UAE | Sep 2024 – Jul 2026
+**Languages & Querying**
+`SQL` `Python` (Pandas, NumPy, Scikit-learn)
 
-- **Dashboard Development:** Designed and deployed interactive Power BI dashboards for executive stakeholders, enabling real-time monitoring of KPIs across multiple departments
-- **Data Engineering:** Developed optimized SQL queries and automated ETL pipelines, reducing manual reporting overhead by 60%
-- **Data Analysis:** Conducted exploratory data analysis on datasets exceeding 100,000 rows using Python (Pandas, NumPy, Matplotlib) to identify trends and anomalies
-- **Process Optimization:** Established data governance standards and structured Excel workflows to improve data consistency across teams
+**BI & Visualization**
+`Power BI` (DAX, data modeling, dashboards) `Excel` (pivot tables, advanced functions) `Matplotlib` `Seaborn`
 
-**Key Technologies:** Power BI, SQL, Python, Pandas, Excel
+**Databases**
+`MySQL` `PostgreSQL` `SQL Server`
 
----
+**Other Tools**
+`Git & GitHub` `Jupyter Notebooks` `Google Sheets` `ETL processes`
 
-## Notable Projects
-
-### E-Commerce Data Quality Analysis
-Comprehensive analysis of a 10,000-record Amazon dataset to assess data completeness and identify business opportunities.
-
-**Deliverables:**
-- Validated data quality metrics across 12+ dimensions (pricing, inventory, seller ratings)
-- Identified pricing anomalies and inconsistencies using statistical methods
-- Generated segment-level insights: top-performing categories, high-risk sellers, pricing trends
-- Automated reporting using SQL aggregation and ranking queries
-
-**Technologies:** MySQL, SQL, Python (Pandas)
+**Exploring**
+`Azure` `Snowflake`
 
 ---
 
-## Continuous Learning
+## 📊 Featured Projects
 
-| Focus Area | Current Development |
-|-----------|-------------------|
-| **SQL** | Advanced window functions, query performance tuning, recursive CTEs |
-| **Power BI** | Complex data modeling, custom DAX measures, drill-through dashboards |
-| **Python** | Automation frameworks, API integration, advanced statistical analysis |
+- **[UAE Real Estate Price Trends Analysis](#)** — pricing trend analysis across UAE property data
+- **[Dubai Metro Ridership Gap Analysis](#)** — identifying ridership patterns and gaps
+- **[Amazon E-Commerce Analytics Dashboard](https://github.com/da-sirajdeen/Amazon-Ecommerce)** — 10,000-record dataset; data quality validation across 12+ dimensions, pricing anomaly detection, and segment-level insights using SQL and Python (Pandas)
 
 ---
 
-## Languages
+## 💼 Experience
 
-| Language | Proficiency |
-|----------|------------|
-| English | Professional Working Proficiency ||
-| Hindi | Intermediate |
-| Arabic  |  Proficient in reading and writing | 
+**Data Analyst** — Dunes Legal Corporate Services, Dubai, UAE
+*[dates to confirm — see note]*
 
----
-
-## Certifications & Education
-
-- Electronics and Communication Engineering- Sep 2020-Apr 2024 
-- **Data Analysis Certificate - Udemy 
-- Continuous professional development through online platforms and hands-on projects
-  
+- Designed and deployed interactive Power BI dashboards for executive stakeholders, enabling real-time KPI monitoring across departments
+- Built optimized SQL queries and automated reporting workflows, cutting manual reporting overhead by 60%
+- Ran exploratory data analysis on datasets exceeding 100,000 rows using Python (Pandas, NumPy, Matplotlib)
+- Established data governance standards and structured Excel workflows for consistency across teams
 
 ---
 
-## Philosophy
+## 🌐 Languages
 
-> "Data is valuable only when it drives informed decisions."
-
-I believe in clean, efficient code, transparent analysis, and delivering insights that translate directly into business impact. Every query is an opportunity to improve data quality; every dashboard is a tool for better decision-making.
+English (Professional) · Arabic (Reading & Writing) · Hindi (Intermediate)
 
 ---
 
-## Get in Touch
-
-**Interested in:** Data analytics, business intelligence, database optimization
-
-📧 **Email:** [da.sirajden@gmail.com](mailto:da.sirajden@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/sirajdeenhabeeb2003](https://www.linkedin.com/in/sirajdeenhabeeb2003/)  
-📍 **Location:** Dubai, UAE
-
----
+*"Data is valuable only when it drives informed decisions."*
