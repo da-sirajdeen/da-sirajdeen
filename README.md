@@ -4,7 +4,7 @@
 
 I help businesses turn data into dashboards, reports, and actionable insights. Based in Dubai, UAE - open to Data Analyst, BI, MIS, and related opportunities across the GCC & Europe.
 
-📧 [da.sirajden@gmail.com](mailto:da.sirajden@gmail.com)
+📧 [sirajdeenhabeeb@gmail.com](mailto:sirajdeenhabeeb@gmail.com)
 🔗 [Portfolio](https://da-sirajdeen.github.io/Sirajdeen_Portfolio/)
 🔗 [LinkedIn](https://www.linkedin.com/in/sirajdeenhabeeb2003/)
 📍 Dubai, UAE
